@@ -30,7 +30,7 @@ n = int(input())
 
 
 ## Output:
-![output](/Screenshot_20221228_074855.png)
+![output](/Screenshot%202023-01-14%20202722.png)
 
 ## Result:
 Thus, Using the function concept, circulating n variables are executed and displayed successfully.
